@@ -4,6 +4,81 @@
   
     
     <entry>
+      <title>c</title>
+      <link href="/2024/12/12/c/"/>
+      <url>/2024/12/12/c/</url>
+      
+        <content type="html"><![CDATA[<h2 id="c"><a href="#c" class="headerlink" title="c"></a>c</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> c </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> c </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>python</title>
+      <link href="/2024/12/12/python/"/>
+      <url>/2024/12/12/python/</url>
+      
+        <content type="html"><![CDATA[<h2 id="python"><a href="#python" class="headerlink" title="python"></a>python</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> python </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> python </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Java Web</title>
+      <link href="/2024/12/12/javaweb/"/>
+      <url>/2024/12/12/javaweb/</url>
+      
+        <content type="html"><![CDATA[<h2 id="使用java-web建立一个选课管理系统"><a href="#使用java-web建立一个选课管理系统" class="headerlink" title="使用java web建立一个选课管理系统"></a>使用java web建立一个选课管理系统</h2><p>创建数据库</p><p>Create Database stu_manage Character Set UTF8;<br>use stu_manage;</p><p>创建管理员表</p><p>use stu_manage;— 选中刚刚创建的数据库<br>create table tb_admin (<br>    username varchar(20),<br>    password varchar(20),<br>    PRIMARY KEY (<code>username</code>)<br>);</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> java </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> java </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>第一篇文章</title>
       <link href="/2024/12/11/2024-12-11%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
       <url>/2024/12/11/2024-12-11%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
@@ -11,6 +86,18 @@
         <content type="html"><![CDATA[<h2 id="这是我的第一篇文章"><a href="#这是我的第一篇文章" class="headerlink" title="这是我的第一篇文章"></a>这是我的第一篇文章</h2>]]></content>
       
       
+      <categories>
+          
+          <category> 杂项 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 杂项 </tag>
+            
+        </tags>
       
     </entry>
     
